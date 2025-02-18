@@ -1,6 +1,6 @@
 {
   "name": "backend-setup",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This is the backend folder structure for the production level codes.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Siddharth-Tayal/backend-setup.git"
+    "url": "git+https://github.com/Siddharth-Tayal/backend-setup.git"
   },
   "author": "Siddharth Tayal",
   "license": "ISC"
