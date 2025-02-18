@@ -1,0 +1,11 @@
+{
+  "name": "backend-setup",
+  "version": "1.0.0",
+  "description": "This is the backend folder structure for the production level codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Tayal",
+  "license": "ISC"
+}
