@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const folders = ["models", "controllers", "routes", "utils", "middlewares", "config"];
-const files = ["server.js"];
+const files = ["server.js", "app.js"];
 
 // Create folders if they don't exist
 folders.forEach(folder => {

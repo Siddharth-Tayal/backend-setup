@@ -1,6 +1,6 @@
 {
   "name": "backend-setup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the backend folder structure for the production level codes.",
   "main": "index.js",
   "scripts": {
